@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="local">RFTA_Braddock_001</identifier>
+<identifier type="pid">rftaart:1</identifier>
+<titleInfo><title>The home of Stacey Adam and Chris Szaton is still standing</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Adam, Stacey</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Szaton, Chris</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>Waiting on interview transcript</url></location><identifier type="pid">rfta:163</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_002</identifier>
+<identifier type="pid">rftaart:2</identifier>
+<titleInfo><title>Lead the way out of the fire</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Something I heard in multiple interviews was worry for visitors who weren’t from the Gatlinburg area. Many tourists were visiting at the time of the fire, several people mentioned fears about those visitors finding their way out with so many roads closed or blocked. Charlie Anderson talked about one of his employees at the rental resort he manages and owns. He said this young man drove his pickup to lead several cars of visitors unfamiliar with the area out a dirt backroad to safety.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Anderson, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/charlie-anderson-2020-05-15</url></location><identifier type="pid">rfta:92</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_003</identifier>
+<identifier type="pid">rftaart:3</identifier>
+<titleInfo><title>A dog left in the home during the wildfire</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Becky Jackson talked about how she had found out about the fire while at work. She left to try and get to her house but the police stopped her. She couldn’t get to her house and she couldn’t get her husband to leave. Finally, she convinced him to leave and just bring her pets. Once he was down the mountain the authorities wouldn’t let him go back. Their house was destroyed by the fire. Pets were mentioned in many interviews. Some people were able to evacuate with their pets. Some people left their pets behind thinking the fire wouldn’t get close or because they were unable to take them along.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Jackson, Becky</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202"><topic>Dogs</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/becky-jackson-2019-11-09</url></location><identifier type="pid">rfta:32</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_004</identifier>
+<identifier type="pid">rftaart:4</identifier>
+<titleInfo><title>The Great Smoky Mountains Church of Christ as a beacon of hope</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Helen Barnett of Great Smoky Mountains Church of Christ in Pigeon Forge remembered how the church helped folks who had lost everything. Survivors would show up at the church in shock, just needing to talk. Helen and other volunteers at the church gave people food, blankets, whatever they could that might help. Listening to her talk made her imagine the church as a beacon, a safe haven in the community’s hour of need.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Barnett, Helen</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/helen-barnett-2020-08-14</url></location><identifier type="pid">rfta:108</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_005</identifier>
+<identifier type="pid">rftaart:5</identifier>
+<titleInfo><title>No children at recess</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Reporter Leslie Ackerson was by herself to do an 11:00 a.m. report from a neighborhood near the fires. She talked about how bad the air quality was and how the little kids had to stay inside during recess. At first, it was a small fire and people didn’t know the fire could be a problem. It was still far away. The wind, dust, and leaves created hazy darkness by late afternoon.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ackerson, Leslie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010471"><topic>Swings</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/leslie-ackerson-2020-01-09</url></location><identifier type="pid">rfta:43</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_006</identifier>
+<identifier type="pid">rftaart:6</identifier>
+<titleInfo><title>Stacey Adam and Chris Szaton evacuate</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Stacey Adam and Chris Szaton packed bags and then worked all day cleaning leaves from gutters and lawn, showering their house with hoses—both the roof and grass around the house. At 6 p.m. someone came to the house and told them they had to leave now! Stacey mentioned her sense of empathy for her neighbors. Even though she and Chris didn’t lose their house, the fire was a life-altering experience to live through.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Adam, Stacey</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Szaton, Chris</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>Waiting on interview transcript</url></location><identifier type="pid">rfta:163</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_007</identifier>
+<identifier type="pid">rftaart:7</identifier>
+<titleInfo><title>The wildfire approaches a river</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract></abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_008</identifier>
+<identifier type="pid">rftaart:8</identifier>
+<titleInfo><title>A family embraces their well-being</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>This is to illustrate a comment I heard in many interviews. People escaped with small things that they thought they cherished, and for those that lost so much, there was ultimately a realization that what really mattered most was the safety of loved ones . . . family and friends.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm012404"><topic>Family members</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_009</identifier>
+<identifier type="pid">rftaart:9</identifier>
+<titleInfo><title>The effects of the wildfire on water and soil</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>In the aftermath of the fire, John Schwartz and Salley Reamer did water and soil-testing wondering about the environmental impact of the fire, answering questions like what is the condition of the soil? Is the water safe to drink?</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Schwartz, John</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Reamer, Salley</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/john-schwartz-and-salley-reamer-2020-03-13</url></location><identifier type="pid">rfta:74</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_010</identifier>
+<identifier type="pid">rftaart:10</identifier>
+<titleInfo><title>Sacrificing meaningful items during evacuation</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Reporter Leslie Ackerson saw people packing up to leave. They were packing photo albums, paintings, and other precious things. One woman spoke to Leslie about having to leave her piano behind. Evacuating for an imminent fire causes you to think about what has true meaning in your life. What you will bring and things you must leave behind. Sometimes the things that you leave are just as meaningful, but too large to bring with you. 
+</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ackerson, Leslie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007759"><topic>Pianos</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/leslie-ackerson-2020-01-09</url></location><identifier type="pid">rfta:43</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Braddock_011</identifier>
+<identifier type="pid">rftaart:11</identifier>
+<titleInfo><title>Escaping the fire</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Seemona and Daniel Whaley kept watching the smoke, thinking the fire was still far away. Their cat hovered near the heating vent because smoke was coming in through the vents. Finally, they could see that one of the lodges below them was on fire. Someone called and told them to leave now. They had a hard time escaping, having waited almost too long to leave. A fallen tree that was on fire beside the road blocked the way out. They could see one of their friends’ houses in flames.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002022941"><namePart>Braddock, Paige</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Whaley, Seemona</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Whaley, Daniel</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/seemona-and-daniel-whaley-2019-09-20</url></location><identifier type="pid">rfta:8</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_001</identifier>
+<identifier type="pid">rftaart:34</identifier>
+<titleInfo><title>Classroom</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>The day of the fire Sarah Reagan was trying to teach third grade at Pi Beta Phi Elementary School in Gatlinburg, but the children were distracted. The distant smoke was getting closer and thicker outside the school, clearly visible through their classroom windows. “Then I started getting frightened . . . it was changing very quickly.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Reagan, Sarah</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002140"><topic>Classrooms</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/sarah-reagan-2019-12-14</url></location><identifier type="pid">rfta:41</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_002</identifier>
+<identifier type="pid">rftaart:35</identifier>
+<titleInfo><title>Table MTN Pines</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Karen Hughes, UT Professor of Population Biology, was involved in observation and research of the post-fire Smoky Mountain plant life, including the table mountain pine trees, which are unique to the Appalachian Mountains. “All the trees were blackened but those that still stood, and had a little bit of needles on top, we saw that the pine cones had opened and dropped their seeds.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Hughes, Karen</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007830"><topic>Pines</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/karen-hughes-2019-11-07</url></location><identifier type="pid">rfta:26</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_003</identifier>
+<identifier type="pid">rftaart:36</identifier>
+<titleInfo><title>Kindness of strangers</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>“We were blessed in so many ways. Every place we went there were people there that wanted to pray with us, they wanted to hug us.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Sweeney, Stephanie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005206"><topic>Hugging</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/stephanie-sweeney-2020-03-14</url></location><identifier type="pid">rfta:82</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_004</identifier>
+<identifier type="pid">rftaart:37</identifier>
+<titleInfo><title>Firetruck warning</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Spotting a fire truck near his house Jottie went through the woods and then stood on the footboard talking to the driver. He was told, “We can’t hook up to this hydrant! We’ve got to get off the mountain!”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Hand, Jottie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Hand, Marie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/jottie-and-marie-hand-2017-02-08</url></location><identifier type="pid">rfta:143</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_005</identifier>
+<identifier type="pid">rftaart:38</identifier>
+<titleInfo><title>Animal rescue</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Heroic first responders during the fire were not only on the lookout for people and property, but pets also. The University College of Veterinary Medicine received multiple animals with serious burns that were rescued by first responders during the wildfires.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Wereszczak, Leslie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/leslie-wereszczak-2019-12-13</url></location><identifier type="pid">rfta:39</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_006</identifier>
+<identifier type="pid">rftaart:39</identifier>
+<titleInfo><title>Motorcycle</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>The night of the fire, the last two people to leave the Lodge at Buckberry Creek were a chef and an event manager. They decided to leave together, but one had a motorcycle he did not want to leave behind, so she followed him down the mountain with flames on both sides of the road. “To this day, he has PTSD.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>McLean, Buddy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006818"><topic>Motorcycles</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/buddy-mclean-2020-09-10</url></location><identifier type="pid">rfta:111</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_007</identifier>
+<identifier type="pid">rftaart:40</identifier>
+<titleInfo><title>Lone cabin</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Frances Fox Shambaugh, who lost her home and extensive library in the fire, also had a rental house further up the mountain. They finally got to go up and assess the damage. “Strange. Everything around it burned, but it was still there.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Shambaugh, Frances</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001521"><topic>Cabins</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/frances-fox-shambaugh-2019-10-13</url></location><identifier type="pid">rfta:13</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_008</identifier>
+<identifier type="pid">rftaart:41</identifier>
+<titleInfo><title>News updates</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>When asked, “Where did you go after being evacuated?” multiple interviewees told of going to stay with friends or family out of immediate danger but still in the area. And that they kept up with what was going on by watching Knoxville TV stations’ news coverage. Fearing the worst, but hoping for the best, they would try to catch a glimpse of any images or information regarding their neighborhoods.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005614"><topic>Journalism</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_009</identifier>
+<identifier type="pid">rftaart:42</identifier>
+<titleInfo><title>Topper</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Both Odunayo and Wereszczak, who work at UT College of Veterinary Medicine, mentioned one particular cat named Topper. He was the most severely burned of nearly 20 “firecats” that were treated in Emergency Critical Care at UTCVM. Topper had severe face and foot pad burns, but “he was a trooper.” He and his owner had a happy reunion three days later. Topper’s story spread and resulted in a Facebook page for people to follow his recovery progress.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Odunayo, Adesola</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Wereszczak, Leslie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001785"><topic>Cats</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/adesola-odunayo-2020-04-23 and https://rfta.lib.utk.edu/interviews/object/leslie-wereszczak-2019-12-13</url></location><identifier type="pid">rfta:86</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_010</identifier>
+<identifier type="pid">rftaart:43</identifier>
+<titleInfo><title>Just a manual</title></titleInfo> 
+<originInfo><dateIssued>2021</dateIssued><dateIssued encoding="edtf" keyDate="yes">2021</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Ann Fairhurst studying the effects of the fire on small businesses, found that for the most part there had been no training of employees in disaster preparedness. If any thought at all had been given, it was just a manual on the shelf. “Most of them thought it could never happen.”</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Fairhurst, Ann</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001221"><topic>Books</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/ann-fairhurst-2019-12-12</url></location><identifier type="pid">rfta:36</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_011</identifier>
+<identifier type="pid">rftaart:44</identifier>
+<titleInfo><title>Santa biblia</title></titleInfo> 
+<originInfo><dateIssued>2022</dateIssued><dateIssued encoding="edtf" keyDate="yes">2022</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>From the story Julia Rodriguez told of a friend who, when evacuating, forgot her Bible; and that was where she kept her money. Her home was lost.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Rodriguez, Julia</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000986"><topic>Bibles</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/julia-rodriguez-2021-03-03</url></location><identifier type="pid">rfta:165</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Wilson_012</identifier>
+<identifier type="pid">rftaart:45</identifier>
+<titleInfo><title>Church</title></titleInfo> 
+<originInfo><dateIssued>2022</dateIssued><dateIssued encoding="edtf" keyDate="yes">2022</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>From the interview with a pastor and friend who both talked about the joy of when they were able to gather in church again after the days of tragedy and uncertainty. The verse on the screen is a verse from the hymn "Amazing Grace" that reads: Through many dangers, toils and snares, / I have already come; / ’Tis grace hath brought me safe thus far, / And grace will lead me home.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022040948"><namePart>Wilson, Danny</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Jimenez, Janeth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Chavez, Eda</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/janeth-jimenez-and-eda-chavez-2021-04-23</url></location><identifier type="pid">rfta:168</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_001</identifier>
+<identifier type="pid">rftaart:14</identifier>
+<titleInfo><title>The Chimney Tops 2 fire</title></titleInfo> 
+
+<abstract>On Wednesday, November 23rd, 2016 at 5:30 P.M., the Chimney Tops 2 fire was reported in the Great Smokey Mountains National Park. The fire burned in remote terrain, with vertical cliffs and narrow rocky ridges. This is where the story begins.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004226"><topic>Forests</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_002</identifier>
+<identifier type="pid">rftaart:15</identifier>
+<titleInfo><title>The combination for disaster</title></titleInfo> 
+
+<abstract>"Never in the history of this park or even in the surrounding area had anyone seen the combination of severe drought, fire on the landscape, and an extreme wind event occurring at the same time. It was the perfect storm." Joe Strutler, USFS, who led eight person team to review the management of the Chimney Tops 2 Fire</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Strutler, Joe</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003353"><topic>Droughts</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_003</identifier>
+<identifier type="pid">rftaart:16</identifier>
+<titleInfo><title>The smoke reaching the Gatlinburg valley</title></titleInfo> 
+
+<abstract>Smoke from the Chimney Tops 2 Fire settled into the valley, giving Gatlinburg an other worldly appearance. Stephanie Sweeney, noticing raining ash, called the fire Department early in the afternoon,"At this point of time, no active fires are in Gatlinburg." Noticing the thickening smoke, she loaded her two sons, dog and cat, toothbrushes and tax forms. Winds at near hurricane force were knocking down trees. Sweeney followed her instinct to leave and headed to a friends house in Sevierville.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Sweeney, Stephanie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009754"><topic>Smoke</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_004</identifier>
+<identifier type="pid">rftaart:17</identifier>
+<titleInfo><title>Relentless flames take over Gatlinburg</title></titleInfo> 
+
+<abstract> By 8 P.M., there was a mandatory evacuation called for Gatlinburg. The flames were flanking downtown. Since noon, there were over 3,500 boots on the ground from 225 agencies. But the high winds were relentless. Flames rapidly advanced.Even long-time residents hesitated to leave their homes. City manager Cindy Cameron Ogle's husband, Bud, did not initially evacuate. Finally his grand-daughter convinced him to leave. He went to check on his mother Stella (she and her husband Coot were tourism pioneers. But told her, "Our town is getting ready to burn down." She left with Bud. Bud and Cindy, like so many, lost everything.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ogle, Cindy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002088"><topic>Cities &amp; towns</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/cindy-ogle-2020-02-20</url></location><identifier type="pid">rtfa:59</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_005</identifier>
+<identifier type="pid">rftaart:18</identifier>
+<titleInfo><title>Erik Dobell wakes up to fire outside his apartment</title></titleInfo> 
+
+<abstract>Master mentalist and magician Erik Dobell woke up from a nap to flickering lights.when he opened his front door what he saw wasn't an illusion. "I opened the front door and everything was on fire. It looked like cartoon hell," Dobell grabbed money, his laptop, and a photo album and got out. "There wasn't time to think. He headed down ski mountain road. The car was hot and he thought the tires would melt. He was fortunate,"The fire stopped at my driveway. My apartment was spared." WHile he had nightmares afterward, he couldn't say enough nice things about the fire department. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Dobell, Erik</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/erik-dobell-2020-02-22</url></location><identifier type="pid">rfta:66</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_006</identifier>
+<identifier type="pid">rftaart:19</identifier>
+<titleInfo><title>Gary Ownby cuts limbs off of a tree blocking the road</title></titleInfo> 
+
+<abstract>Faith and fate lined up the night of the 28th. Gary and Jill Ownby had settled in for the night when Gary woke up to see fire coming over the hill.Loading up the dog, two gallons of gas and his trusty boy scout knife, Gary and Jill headed down the mountain. Soon they came to a fallen tree on the power lines. Gary cut limbs off, reducing the tree's weight and allowing their cars and their friend Tessa's car to get under. Tessa, with the help of a police officer, was then able to rescue her 99-year old grandmother.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ownby, Gary</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Ownby, Jill</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011792"><topic>Woodcutting</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/gary-ownby-2020-02-22</url></location><identifier type="pid">rfta:68</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_007</identifier>
+<identifier type="pid">rftaart:20</identifier>
+<titleInfo><title>First responders fight the fires and save lives</title></titleInfo> 
+
+<abstract>"Never in the field of human conflict was so much owned by so many to so few." Sir Winston Churchill. With faces covered with soot and bodies exhausted to the core, first responders fought flames in the hills, walked halls of hotels and carried citizens to safety-- even when their own homes were in peril. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004004"><topic>Fire fighting</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_008</identifier>
+<identifier type="pid">rftaart:21</identifier>
+<titleInfo><title>Russell Biven reports the local disaster</title></titleInfo> 
+
+<abstract>Local reporters found themselves covering an international story. WBIRS' Russell Biven, who had covered the area for 20 years, worked hard not to pass along rumors and to get out ways for the viewers to help. But it was emotional work. Although he had covered Katrina, this was different. This was home. And the world was watching. At one point over 1,000,000 viewers were watching on Facebook. Biven refused to stay in a hotel. He didn't want to take a bed from an evacuee. "I drove home every night to hug my family."  When it was over, Biven was tired but comforted knowing that when something bad happens in East Tennessee someone will have your back. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Biven, Russell</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010656"><topic>Television news anchors</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/russell-biven-2020-02-21</url></location><identifier type="pid">rfta:63</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_009</identifier>
+<identifier type="pid">rftaart:22</identifier>
+<titleInfo><title>The rain puts out the fires</title></titleInfo> 
+
+<abstract>Late Monday night the rain finally arrived and like the final scene in a horror movie, the monster was beat back. By 6 A.M., the official rain gauge in Gatlinburg received .73 of an inch. Every drop helped firefighters contain the blaze. More rain would come in the following days. In her oral history, Gatlinburg city manager Cindy Cameron Ogle said that without the rain," The fires would have gone to Douglas Lake" </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ogle, Cindy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008609"><topic>Rain</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/cindy-ogle-2020-02-20</url></location><identifier type="pid">rfta:59</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_010</identifier>
+<identifier type="pid">rftaart:23</identifier>
+<titleInfo><title>The residents of Gatlinburg are mountain tough</title></titleInfo> 
+
+<abstract>Recovery was a marathon, not a sprint. At 11 P.M. rains came helping to tame the flames. Two days after the fire, Dr. Jack Parton, Sevier Co. School Superintendent said,"The reason we are going to make it is because we are mountain tough and we have strong faith in Jesus Christ." Mountain tough stuck.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Parton, Jack</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_011</identifier>
+<identifier type="pid">rftaart:24</identifier>
+<titleInfo><title>Bob Sweeney prays</title></titleInfo> 
+
+<abstract>"We just said a prayer for thankfulness that we still had each other, that we still had the means to move forward and to make a better path forward out of this..." Bob Sweeney said to his son Stanton (who took the photo this was based on)</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Sweeney, Bob</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008146"><topic>Prayer</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/bob-sweeney-2020-03-14</url></location><identifier type="pid">rfta:76</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_012</identifier>
+<identifier type="pid">rftaart:25</identifier>
+<titleInfo><title>Stephanie Sweeney recovers her grandmother's cast iron skillets</title></titleInfo> 
+
+<abstract>The U.S. Department of Commerce's National Institute of Standards and Technology surveyed 323 residents. Ninety-five had not evacuated before. Only 18.3% had had a household emergency plan prior to the fire and 86.7% eventually evacuated last minute. Bob and Stephanie Sweeney, like so many in Gatlinburg, lost nearly everything. If you had to quickly evacuate what would you bring? (Stephanie Sweeney finds her grandmother's cast iron skillets)</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Sweeney, Bob</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006429"><topic>Memorabilia</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/bob-sweeney-2020-03-14</url></location><identifier type="pid">rfta:82</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_013</identifier>
+<identifier type="pid">rftaart:26</identifier>
+<titleInfo><title>Charlie Anderson returns to the remains of his resort</title></titleInfo> 
+
+<abstract>"it was like a warzone." That was how Charlie Anderson described his beloved Tree Tops Resort after the fire. He and his wife Gale had been camping in Chattanooga when flames roared through Gatlinburg with little warning. 100 people had been in occupancy; yet some had left early. The road from the pedestals was blocked. But one employee knew of a back road to 321, saving everyone. Thanks to insurance, Tree Tops Resort has been built like it was before ($30 million). Charlie Anderson said COVID was harder financially. He passed away on April 29, 2021.</abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Anderson, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008845"><topic>Resorts</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/charlie-anderson-2020-05-15</url></location><identifier type="pid">rfta:92</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_014 RFTA_Marshall_015 RFTA_Marshall_016</identifier>
+<identifier type="pid">rftaart:64</identifier>
+<titleInfo><title>Susan Melchor evacuates early. Susan Melchor discovers her destroyed home. Volunteers helped rebuild Susan Melchor's home.</title></titleInfo> 
+
+<abstract>1. Susan Melchor whose home was off Fox Run, is a classic example of how volunteer groups helped victims rebuild when insurance and other aid groups fell short. 2. Monday morning, she noticed embers falling from the sky. She called work saying she needed to clean leaves. She cleaned up, took a shower. At 6:30 she saw a fire truck at the end of the road. 3. A voice inside her head told her get out! so she loaded up pictures and pets and did just that. 4. For months she had been hearing "fire!" in her head, by 7 P.M., she was safely in Pigeon Forge. Her friends said "You're being sensational." By 8:30, her neighbors said her home was on fire. 5."God protected us even though I lost everything." Susan Melchor had escaped the fire. But her home, purchased to escape Florida hurricanes, was gone. One cruel irony-- one old stove, that was feared to be a fire hazard and broke during cleaning a few days before the fire, was untouched by the flames. 6. Thankful to have shelter, living in an unheated, leaky travel trailer got the best of Susan Melchor. "Your home is your refuge and I just want to go home," 7.The cost of rebuilding stunned Susan. One bid would have eaten up most of her insurance money and busted her budget. Then a Godsend arrived. Mission groups Helping His Hand and Church of the Cove from Townsend arrived. The volunteering professionals built the basement for $25,000. 8. The faith and giving spirit demonstrated by Helping His Hands (from Vincennes, Indiana) and Church of the Cove from Townsend represented the recovery efforts that happened after the fire. Tennessee live up to its nickname "The Volunteer State." "I wasn't asking for a handout. I was asking for a hand up... I wanted hope." 9. Like the wildflowers in the burn area new hope and homes sprouted anew. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Melchor, Susan</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003678"><topic>Evacuations</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002379"><topic>Community service</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010220"><topic>Stoves</topic></subject>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>Waiting on interview transcript</url></location><identifier type="pid">rfta:157</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_017</identifier>
+<identifier type="pid">rftaart:30</identifier>
+<titleInfo><title>All groups of people were affected by the fires</title></titleInfo> 
+
+<abstract>The fire was an equal opportunity destroyer. Rich, poor, young, old, public servants, first responders, business owners-- all lost their homes. In the flames. The devastation was so widespread that initially even city leaders had moments of doubt. But encouragement came in private moments. Longtime city manager Cindy Cameron Ogle, who lost her home confided to Mayor Mike Werner's wife Cindy (who lost a home and business) , "I can't do this." Werner replied, " You have to do it, we need you." Then they prayed together. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ogle, Cindy</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011348"><topic>Victims</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/mike-werner-2020-02-20</url></location><identifier type="pid">rfta:61</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_018</identifier>
+<identifier type="pid">rftaart:31</identifier>
+<titleInfo><title>School children want their normal life back</title></titleInfo> 
+
+<abstract>Gary Ownby, a third-grade teacher at Pi Beta Phi Elementary School, said that at any given moment, children would burst into tears. "We didn't do hard stuff we did stuff just to get back to a regular routine." He treated the children with kid gloves to find normalcy. Cara Parker, a clinical social worker at the Helen Ross McNabb Center said those kids had lost their homes. By January, shelters had closed and people lived in motels. When she visited she encountered stress. As time went on, more families came in for services because the trauma caused by evacuation. The good news? The stigma of getting help evaporated. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Ownby, Gary</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<name><namePart>Parker, Cara</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009227"><topic>School children</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+<relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/gary-ownby-2020-02-22 and https://rfta.lib.utk.edu/interviews/object/cara-parker-2019-12-12</url></location><identifier type="pid">rfta:68</identifier></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_019</identifier>
+<identifier type="pid">rftaart:32</identifier>
+<titleInfo><title>Dolly Parton donates to the residents of Sevier County</title></titleInfo> 
+
+<abstract>In a time when so many stepped up to give, no one did it any better than Dolly Parton. The My People's Fund gave $1000 per month to about 900 families impacted by the fire for six months. But since they had received so many donations, it was upped to $5,000 the final month. The people of Sevier Co. received $12.5 million. </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004543"><topic>Gifts</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Marshall_020</identifier>
+<identifier type="pid">rftaart:33</identifier>
+<titleInfo><title>Remember the lives lost to the fires</title></titleInfo> 
+
+<abstract>In memory of Elaine Brown (81) Bradley William Phillips (59) May Evelyn Norred Vance (75) Constance Reed (34) Chloe Reed (12) Lily Reed (9) Alice Hagler (70) Janet Summers (61) Joe Summers (71) John Tegler (71) Marilyn Tegler (70) Pamela Jean Johnson (59) Robert A. Hejney (65) The Rev. Ed Taylor (80) He heals the brokenhearted and binds up their wounds. Psalm 147:3 </abstract>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2003045282"><namePart>Ramsey, Marshall</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006749"><topic>Monuments &amp; memorials</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Daniel_001</identifier>
+<identifier type="pid">rftaart:12</identifier>
+<titleInfo><title>Smokey the Bear sends a message to the victims</title></titleInfo> 
+<originInfo><dateIssued>2016-12-01</dateIssued><dateIssued encoding="edtf" keyDate="yes">2016-12-01</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Hats off to all the tireless firefighters and the undaunted spirit of Tennesseans</abstract>
+<name><namePart>Daniel, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000901"><topic>Bears</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">RFTA_Daniel_002</identifier>
+<identifier type="pid">rftaart:13</identifier>
+<titleInfo><title>Children victims ask for Santa's help</title></titleInfo> 
+<originInfo><dateIssued>2016-12-16</dateIssued><dateIssued encoding="edtf" keyDate="yes">2016-12-16</dateIssued><publisher></publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+</place></originInfo>
+<abstract>Yes, Virginia... There is a Dolly.</abstract>
+<name><namePart>Daniel, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005051"><topic>Holidays</topic></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
