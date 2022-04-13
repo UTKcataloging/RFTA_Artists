@@ -26,20 +26,16 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
       </role>
    </name>
-   <name>
-      <namePart>Hand, Jottie</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Hand, Marie</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
-      </role>
-   </name>
+   <subject>
+      <name>
+         <namePart>Hand, Jottie</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Hand, Marie</namePart>
+      </name>
+   </subject>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
    </physicalDescription>
@@ -51,10 +47,10 @@
             valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003">
       <topic>Fire fighters</topic>
    </subject>
-   <typeOfResource>text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
-         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title>
+         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
       </titleInfo>
    </relatedItem>
    <relatedItem type="references">

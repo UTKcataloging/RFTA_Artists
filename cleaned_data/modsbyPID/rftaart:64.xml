@@ -18,13 +18,11 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
       </role>
    </name>
-   <name>
-      <namePart>Melchor, Susan</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
-      </role>
-   </name>
+   <subject>
+      <name>
+         <namePart>Melchor, Susan</namePart>
+      </name>
+   </subject>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
    </physicalDescription>
@@ -48,15 +46,15 @@
             valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010220">
       <topic>Stoves</topic>
    </subject>
-   <typeOfResource>text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
-         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art.</title>
+         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
       </titleInfo>
    </relatedItem>
    <relatedItem type="references">
       <location>
-         <url>Waiting on interview transcript</url>
+         <url>https://rfta.lib.utk.edu/interviews/object/susan-melchor-2017-03-22</url>
       </location>
       <identifier type="pid">rfta:157</identifier>
    </relatedItem>
