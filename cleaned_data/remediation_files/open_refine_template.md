@@ -16,8 +16,7 @@
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 <identifier type="pid">{{cells["PID"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
-{{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateIssued>' + cells['dateIssued'].value + '</dateIssued><dateIssued encoding="edtf" keyDate="yes">' + cells['dateIssued'].value + '</dateIssued><publisher>' + '</publisher><place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-</place></originInfo>')}}
+{{if(isBlank(cells['dateIssued'].value), '', '<originInfo><dateCreated>' + cells['dateIssued'].value + '</dateCreated><dateCreated encoding="edtf" keyDate="yes">' + cells['dateIssued'].value + '</dateCreated></originInfo>')}}
 <abstract>{{cells["abstract"].value}}</abstract>
 <name{{if(isBlank(cells["artist_URI"].value), '', ' authority="naf" valueURI="' + cells["artist_URI"].value + '"')}}><namePart>{{cells["artist"].value}}</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 {{if(isBlank(cells["interviewee_1"].value), '', '<subject>' + '<name>' + '<namePart>' + cells["interviewee_1"].value + '</namePart>' + '</name>' + '</subject>')}}
