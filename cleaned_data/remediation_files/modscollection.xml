@@ -10,7 +10,7 @@
 <subject><name><namePart>Szaton, Chris</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
 
 
 
@@ -31,7 +31,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
 
 
 
@@ -52,7 +52,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202"><topic>Dogs</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202"><topic>Dogs</topic></subject>
 
 
 
@@ -73,7 +73,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
 
 
 
@@ -94,7 +94,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010471"><topic>Swings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010471"><topic>Swings</topic></subject>
 
 
 
@@ -115,7 +115,7 @@
 <subject><name><namePart>Szaton, Chris</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
 
 
 
@@ -136,7 +136,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
 
 
 
@@ -157,7 +157,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm012404"><topic>Family members</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm012404"><topic>Family members</topic></subject>
 
 
 
@@ -178,7 +178,7 @@
 <subject><name><namePart>Reamer, Salley</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
 
 
 
@@ -200,7 +200,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007759"><topic>Pianos</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007759"><topic>Pianos</topic></subject>
 
 
 
@@ -221,7 +221,7 @@
 <subject><name><namePart>Whaley, Daniel</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665"><topic>Automobiles</topic></subject>
 
 
 
@@ -242,7 +242,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002140"><topic>Classrooms</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002140"><topic>Classrooms</topic></subject>
 
 
 
@@ -263,7 +263,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007830"><topic>Pines</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007830"><topic>Pines</topic></subject>
 
 
 
@@ -284,7 +284,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005206"><topic>Hugging</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005206"><topic>Hugging</topic></subject>
 
 
 
@@ -305,7 +305,7 @@
 <subject><name><namePart>Hand, Marie</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
 
 
 
@@ -326,7 +326,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004003"><topic>Fire fighters</topic></subject>
 
 
 
@@ -347,7 +347,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006818"><topic>Motorcycles</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006818"><topic>Motorcycles</topic></subject>
 
 
 
@@ -368,7 +368,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001521"><topic>Cabins</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001521"><topic>Cabins</topic></subject>
 
 
 
@@ -389,7 +389,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005614"><topic>Journalism</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005614"><topic>Journalism</topic></subject>
 
 
 
@@ -410,7 +410,7 @@
 <subject><name><namePart>Wereszczak, Leslie</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001785"><topic>Cats</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001785"><topic>Cats</topic></subject>
 
 
 
@@ -431,7 +431,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001221"><topic>Books</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001221"><topic>Books</topic></subject>
 
 
 
@@ -452,7 +452,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000986"><topic>Bibles</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000986"><topic>Bibles</topic></subject>
 
 
 
@@ -473,7 +473,7 @@
 <subject><name><namePart>Chavez, Eda</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002053"><topic>Churches</topic></subject>
 
 
 
@@ -494,7 +494,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004226"><topic>Forests</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004226"><topic>Forests</topic></subject>
 
 
 
@@ -515,7 +515,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003353"><topic>Droughts</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003353"><topic>Droughts</topic></subject>
 
 
 
@@ -536,7 +536,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009754"><topic>Smoke</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009754"><topic>Smoke</topic></subject>
 
 
 
@@ -557,7 +557,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002088"><topic>Cities &amp; towns</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002088"><topic>Cities &amp; towns</topic></subject>
 
 
 
@@ -578,7 +578,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
 
 
 
@@ -599,7 +599,7 @@
 <subject><name><namePart>Ownby, Jill</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011792"><topic>Woodcutting</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011792"><topic>Woodcutting</topic></subject>
 
 
 
@@ -620,7 +620,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004004"><topic>Fire fighting</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004004"><topic>Fire fighting</topic></subject>
 
 
 
@@ -641,7 +641,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010656"><topic>Television news anchors</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010656"><topic>Television news anchors</topic></subject>
 
 
 
@@ -662,7 +662,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008609"><topic>Rain</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008609"><topic>Rain</topic></subject>
 
 
 
@@ -683,7 +683,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
 
 
 
@@ -704,7 +704,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008146"><topic>Prayer</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008146"><topic>Prayer</topic></subject>
 
 
 
@@ -725,7 +725,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006429"><topic>Memorabilia</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006429"><topic>Memorabilia</topic></subject>
 
 
 
@@ -746,7 +746,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008845"><topic>Resorts</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008845"><topic>Resorts</topic></subject>
 
 
 
@@ -767,10 +767,10 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003678"><topic>Evacuations</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002379"><topic>Community service</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010220"><topic>Stoves</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003678"><topic>Evacuations</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002379"><topic>Community service</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003413"><topic>Dwellings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010220"><topic>Stoves</topic></subject>
 <typeOfResource>still image</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title></titleInfo></relatedItem>
 <relatedItem type="references"><location><url>https://rfta.lib.utk.edu/interviews/object/susan-melchor-2017-03-22</url></location><identifier type="pid">rfta:157</identifier></relatedItem>
@@ -788,7 +788,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011348"><topic>Victims</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011348"><topic>Victims</topic></subject>
 
 
 
@@ -809,7 +809,7 @@
 <subject><name><namePart>Parker, Cara</namePart></name></subject>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009227"><topic>School children</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009227"><topic>School children</topic></subject>
 
 
 
@@ -830,7 +830,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004543"><topic>Gifts</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004543"><topic>Gifts</topic></subject>
 
 
 
@@ -851,7 +851,7 @@
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006749"><topic>Monuments &amp; memorials</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006749"><topic>Monuments &amp; memorials</topic></subject>
 
 
 
@@ -867,12 +867,12 @@
 <titleInfo><title>Smokey the Bear sends a message to the victims</title></titleInfo> 
 <originInfo><dateCreated>2016-12-01</dateCreated><dateCreated encoding="edtf" keyDate="yes">2016-12-01</dateCreated></originInfo>
 <abstract>Hats off to all the tireless firefighters and the undaunted spirit of Tennesseans</abstract>
-<name><namePart>Daniel, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Daniel, Charles R. (Charlie), Jr., 1930-</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000901"><topic>Bears</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000901"><topic>Bears</topic></subject>
 
 
 
@@ -888,12 +888,12 @@
 <titleInfo><title>Children victims ask for Santa's help</title></titleInfo> 
 <originInfo><dateCreated>2016-12-16</dateCreated><dateCreated encoding="edtf" keyDate="yes">2016-12-16</dateCreated></originInfo>
 <abstract>Yes, Virginia... There is a Dolly.</abstract>
-<name><namePart>Daniel, Charlie</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
+<name><namePart>Daniel, Charles R. (Charlie), Jr., 1930-</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form></physicalDescription> 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85146723"><topic>Wildfires</topic></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005051"><topic>Holidays</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005051"><topic>Holidays</topic></subject>
 
 
 
