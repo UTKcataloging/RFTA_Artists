@@ -20,8 +20,8 @@
 </place></originInfo>')}}
 <abstract>{{cells["abstract"].value}}</abstract>
 <name{{if(isBlank(cells["artist_URI"].value), '', ' authority="naf" valueURI="' + cells["artist_URI"].value + '"')}}><namePart>{{cells["artist"].value}}</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-{{if(isBlank(cells["interviewee_1"].value), '', '<name>' + '<namePart>' + cells["interviewee_1"].value + '</namePart>' + '<role>' + '<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>' + '</role>' + '</name>')}}
-{{if(isBlank(cells["interviewee_2"].value), '', '<name>' + '<namePart>' + cells["interviewee_2"].value + '</namePart>' + '<role>' + '<roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>' + '</role>' + '</name>')}}
+{{if(isBlank(cells["interviewee_1"].value), '', '<subject>' + '<name>' + '<namePart>' + cells["interviewee_1"].value + '</namePart>' + '</name>' + '</subject>')}}
+{{if(isBlank(cells["interviewee_2"].value), '', '<subject>' + '<name>' + '<namePart>' + cells["interviewee_2"].value + '</namePart>' + '</name>' + '</subject>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription> 
 {{if(isBlank(cells['subject_topic'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '"><topic>' + cells['subject_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
