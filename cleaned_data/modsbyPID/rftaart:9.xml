@@ -39,7 +39,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
-   <subject authority="lcsh"
+   <subject authority="tgm"
             valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054">
       <topic>Trees</topic>
    </subject>
