@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RFTA_Marshall_003</identifier>
+   <identifier type="pid">rftaart:16</identifier>
+   <titleInfo>
+      <title>The smoke reaching the Gatlinburg valley</title>
+   </titleInfo>
+   <abstract>Smoke from the Chimney Tops 2 Fire settled into the valley, giving Gatlinburg an other worldly appearance. Stephanie Sweeney, noticing raining ash, called the fire Department early in the afternoon,"At this point of time, no active fires are in Gatlinburg." Noticing the thickening smoke, she loaded her two sons, dog and cat, toothbrushes and tax forms. Winds at near hurricane force were knocking down trees. Sweeney followed her instinct to leave and headed to a friends house in Sevierville.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2003045282">
+      <namePart>Ramsey, Marshall</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <name>
+         <namePart>Sweeney, Stephanie</namePart>
+      </name>
+   </subject>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009754">
+      <topic>Smoke</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
