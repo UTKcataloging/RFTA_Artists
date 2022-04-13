@@ -23,10 +23,10 @@
 {{if(isBlank(cells["interviewee_2"].value), '', '<subject>' + '<name>' + '<namePart>' + cells["interviewee_2"].value + '</namePart>' + '</name>' + '</subject>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription> 
 {{if(isBlank(cells['subject_topic'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '"><topic>' + cells['subject_topic'].value + '</topic></subject>')}}
-{{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
-{{if(isBlank(cells['subject_topic_3'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_3_URI'].value + '"><topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
-{{if(isBlank(cells['subject_topic_4'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_4_URI'].value + '"><topic>' + cells['subject_topic_4'].value + '</topic></subject>')}}
-{{if(isBlank(cells['subject_topic_5'].value), '', '<subject authority="lcsh" valueURI="' + cells['subject_topic_5_URI'].value + '"><topic>' + cells['subject_topic_5'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_2'].value), '', '<subject authority="tgm" valueURI="' + cells['subject_topic_2_URI'].value + '"><topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_3'].value), '', '<subject authority="tgm" valueURI="' + cells['subject_topic_3_URI'].value + '"><topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_4'].value), '', '<subject authority="tgm" valueURI="' + cells['subject_topic_4_URI'].value + '"><topic>' + cells['subject_topic_4'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_topic_5'].value), '', '<subject authority="tgm" valueURI="' + cells['subject_topic_5_URI'].value + '"><topic>' + cells['subject_topic_5'].value + '</topic></subject>')}}
 <typeOfResource>still image</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title></titleInfo></relatedItem>
 {{if(isBlank(cells["interview_file"].value), '', '<relatedItem type="references">' + '<location>' + '<url>' + cells["interview_link"].value + '</url>' + '</location>' + '<identifier type="pid">' + cells["interview_file"].value + '</identifier>' +'</relatedItem>')}}
