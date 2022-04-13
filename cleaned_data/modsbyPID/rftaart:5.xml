@@ -10,12 +10,7 @@
       <title>No children at recess</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>Reporter Leslie Ackerson was by herself to do an 11:00 a.m. report from a neighborhood near the fires. She talked about how bad the air quality was and how the little kids had to stay inside during recess. At first, it was a small fire and people didn’t know the fire could be a problem. It was still far away. The wind, dust, and leaves created hazy darkness by late afternoon.</abstract>
    <name authority="naf"

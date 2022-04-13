@@ -10,12 +10,7 @@
       <title>Church</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2022</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2022</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
    </originInfo>
    <abstract>From the interview with a pastor and friend who both talked about the joy of when they were able to gather in church again after the days of tragedy and uncertainty. The verse on the screen is a verse from the hymn "Amazing Grace" that reads: Through many dangers, toils and snares, / I have already come; / ’Tis grace hath brought me safe thus far, / And grace will lead me home.</abstract>
    <name authority="naf"

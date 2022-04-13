@@ -10,12 +10,7 @@
       <title>Firetruck warning</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>Spotting a fire truck near his house Jottie went through the woods and then stood on the footboard talking to the driver. He was told, “We can’t hook up to this hydrant! We’ve got to get off the mountain!”</abstract>
    <name authority="naf"

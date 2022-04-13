@@ -10,12 +10,7 @@
       <title>News updates</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>When asked, “Where did you go after being evacuated?” multiple interviewees told of going to stay with friends or family out of immediate danger but still in the area. And that they kept up with what was going on by watching Knoxville TV stations’ news coverage. Fearing the worst, but hoping for the best, they would try to catch a glimpse of any images or information regarding their neighborhoods.</abstract>
    <name authority="naf"

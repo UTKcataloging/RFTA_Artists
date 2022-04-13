@@ -10,12 +10,7 @@
       <title>The effects of the wildfire on water and soil</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>In the aftermath of the fire, John Schwartz and Salley Reamer did water and soil-testing wondering about the environmental impact of the fire, answering questions like what is the condition of the soil? Is the water safe to drink?</abstract>
    <name authority="naf"

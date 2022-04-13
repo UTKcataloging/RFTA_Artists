@@ -10,12 +10,7 @@
       <title>The Great Smoky Mountains Church of Christ as a beacon of hope</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>Helen Barnett of Great Smoky Mountains Church of Christ in Pigeon Forge remembered how the church helped folks who had lost everything. Survivors would show up at the church in shock, just needing to talk. Helen and other volunteers at the church gave people food, blankets, whatever they could that might help. Listening to her talk made her imagine the church as a beacon, a safe haven in the community’s hour of need.</abstract>
    <name authority="naf"

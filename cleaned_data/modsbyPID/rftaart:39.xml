@@ -10,12 +10,7 @@
       <title>Motorcycle</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>The night of the fire, the last two people to leave the Lodge at Buckberry Creek were a chef and an event manager. They decided to leave together, but one had a motorcycle he did not want to leave behind, so she followed him down the mountain with flames on both sides of the road. “To this day, he has PTSD.”</abstract>
    <name authority="naf"

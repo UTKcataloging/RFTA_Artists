@@ -10,12 +10,7 @@
       <title>Lone cabin</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>Frances Fox Shambaugh, who lost her home and extensive library in the fire, also had a rental house further up the mountain. They finally got to go up and assess the damage. “Strange. Everything around it burned, but it was still there.”</abstract>
    <name authority="naf"

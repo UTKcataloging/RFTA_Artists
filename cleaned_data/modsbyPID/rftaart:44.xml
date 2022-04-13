@@ -10,12 +10,7 @@
       <title>Santa biblia</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2022</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2022</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
    </originInfo>
    <abstract>From the story Julia Rodriguez told of a friend who, when evacuating, forgot her Bible; and that was where she kept her money. Her home was lost.</abstract>
    <name authority="naf"

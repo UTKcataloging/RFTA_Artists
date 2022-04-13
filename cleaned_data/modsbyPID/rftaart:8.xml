@@ -10,12 +10,7 @@
       <title>A family embraces their well-being</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2021</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2021</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
    <abstract>This is to illustrate a comment I heard in many interviews. People escaped with small things that they thought they cherished, and for those that lost so much, there was ultimately a realization that what really mattered most was the safety of loved ones . . . family and friends.</abstract>
    <name authority="naf"

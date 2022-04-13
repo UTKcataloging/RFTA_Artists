@@ -10,12 +10,7 @@
       <title>Smokey the Bear sends a message to the victims</title>
    </titleInfo>
    <originInfo>
-      <dateIssued>2016-12-01</dateIssued>
-      <dateIssued encoding="edtf" keyDate="yes">2016-12-01</dateIssued>
-      <publisher/>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
+      <dateCreated encoding="edtf" keyDate="yes">2016-12-01</dateCreated>
    </originInfo>
    <abstract>Hats off to all the tireless firefighters and the undaunted spirit of Tennesseans</abstract>
    <name>
