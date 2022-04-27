@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">RussellBiven_Marshall_008</identifier>
+   <titleInfo>
+      <title>Close to Home</title>
+   </titleInfo>
+   <abstract>Local reporters found themselves covering an international story. WBIRS' Russell Biven, who had covered the area for 20 years, worked hard not to pass along rumors and to get out ways for the viewers to help. But it was emotional work. Although he had covered Katrina, this was different. This was home. And the world was watching. At one point over 1,000,000 viewers were watching on Facebook. Biven refused to stay in a hotel. He didn't want to take a bed from an evacuee. "I drove home every night to hug my family."  When it was over, Biven was tired but comforted knowing that when something bad happens in East Tennessee someone will have your back. </abstract>
+   <name>
+      <namePart>Morgan, Josh</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/edc">Editor of compilation</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Biven, Russell</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Ramsey, Marshall</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>April 11, 2022</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2022-04-11</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:04:43</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010656">
+      <topic>Television news anchors</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh97000057">
+      <topic>Disasters in art</topic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <identifier type="pid">rftaart:21</identifier>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <identifier type="pid">rfta:63</identifier>
+      <location>
+         <url>https://rfta.lib.utk.edu/interviews/object/russell-biven-2020-02-21</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

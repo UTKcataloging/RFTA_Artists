@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">CharlieAnderson_Braddock_002</identifier>
+   <titleInfo>
+      <title>Backroads</title>
+   </titleInfo>
+   <abstract>Multiple interviewees said they were concerned for visitors who weren’t from the Gatlinburg area. Many tourists were visiting at the time of the fire, several people mentioned fears about those visitors finding their way out with so many roads closed or blocked. Charlie Anderson talked about one of his employees at the rental resort he manages and owns. He said this young man drove his pickup to lead several cars of visitors unfamiliar with the area out a dirt backroad to safety.</abstract>
+   <name>
+      <namePart>Morgan, Josh</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/edc">Editor of compilation</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Anderson, Charlie</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Braddock, Paige</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>April 11, 2022</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2022-04-11</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:03:03</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000665">
+      <topic>Automobiles</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh97000057">
+      <topic>Disasters in art</topic>
+   </subject>
+   <typeOfResource>moving image</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <identifier type="pid">rftaart:2</identifier>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <identifier type="pid">rfta:92</identifier>
+      <location>
+         <url>https://rfta.lib.utk.edu/interviews/object/charlie-anderson-2020-05-15</url>
+      </location>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
