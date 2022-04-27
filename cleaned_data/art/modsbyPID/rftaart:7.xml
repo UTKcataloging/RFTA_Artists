@@ -7,14 +7,13 @@
    <identifier type="local">RFTA_Braddock_007</identifier>
    <identifier type="pid">rftaart:7</identifier>
    <titleInfo>
-      <title>The wildfires</title>
+      <title>The Wildfires</title>
    </titleInfo>
-   <abstract>This work captures how the smoke and flames of the wildfires encompassed the Great Smoky Mountains.</abstract>
    <originInfo>
       <dateCreated>2021</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes">2021</dateCreated>
    </originInfo>
-   <abstract/>
+   <abstract>This work captures how the smoke and flames of the wildfires encompassed the Great Smoky Mountains.</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n2002022941">
       <namePart>Braddock, Paige</namePart>
