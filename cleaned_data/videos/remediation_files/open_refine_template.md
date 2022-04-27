@@ -13,39 +13,38 @@
 
 ```
 <mods>
-<identifier type="local">{{cells["identifier"].value}}</identifier>
+<identifier type="local">{{cells["Video Identifier"].value}}</identifier>
 
-<titleInfo><title>{{cells['title'].value}}</title></titleInfo>
+<titleInfo><title>{{cells['Video Title'].value}}</title></titleInfo>
 
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 
-<originInfo><dateIssued encoding="edtf" keyDate="yes">{{cells['date_text'].value}}</dateIssued></originInfo>
+{{if(isBlank(cells['Video Editor'].value), '', '<name><namePart>' + cells['Video Editor'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edc">Editor of compilation</roleTerm></role></name>')}}
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells["extent"].value}}</extent></physicalDescription>
+{{if(isBlank(cells['Interviewee'].value), '', '<name><namePart>' + cells['Interviewee'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
+{{if(isBlank(cells['Interviewee2'].value), '', '<name><namePart>' + cells['Interviewee2'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
+{{if(isBlank(cells['Interviewee3'].value), '', '<name><namePart>' + cells['Interviewee3'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
 
-{{if(isBlank(cells['subject_name'].value), '', '<subject'+ if(isBlank(cells['subject_name_URI'].value), '', ' valueURI="' + cells['subject_name_URI'].value + '"' + ' authority="wikidata"') + '><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
+<originInfo><dateCreated>{{cells['Video Date'].value}}</dateCreated><dateCreated encoding="edtf" keyDate="yes">{{cells['EDTF Video Date'].value}}</dateCreated></originInfo>
 
-<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
-
-{{if(isBlank(cells['subject_name_3'].value), '', '<subject'+ if(isBlank(cells['subject_name_3_URI'].value), '', ' valueURI="' + cells['subject_name_3_URI'].value + '"' + ' authority="wikidata"') + '><name><namePart>' + cells['subject_name_3'].value + '</namePart></name></subject>')}}
-
-{{if(isBlank(cells['subject_name_4'].value), '', '<subject'+ if(isBlank(cells['subject_name_4_URI'].value), '', ' valueURI="' + cells['subject_name_4_URI'].value + '"' + ' authority="naf"') + '><name><namePart>' + cells['subject_name_4'].value + '</namePart></name></subject>')}}
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells["Video Extent"].value}}</extent></physicalDescription>
 
 {{if(isBlank(cells['subject_topic'].value), '', '<subject' + if(isBlank(cells['subject_topic_URI'].value), '>', ' authority="lcsh" valueURI="' + cells['subject_topic_URI'].value + '">') + '<topic>' + cells['subject_topic'].value + '</topic></subject>')}}
 
-<subject><topic>{{cells['subject_topic_2'].value}}</topic></subject>
+{{if(isBlank(cells['subject_topic_2'].value), '', '<subject' + if(isBlank(cells['subject_topic_2_URI'].value), '>', ' authority="tgm" valueURI="' + cells['subject_topic_2_URI'].value + '">') + '<topic>' + cells['subject_topic_2'].value + '</topic></subject>')}}
 
 {{if(isBlank(cells['subject_topic_3'].value), '', '<subject' + if(isBlank(cells['subject_topic_3_URI'].value), '>', ' authority="lcsh" valueURI="' + cells['subject_topic_3_URI'].value + '">') + '<topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
 
-<typeOfResource>text</typeOfResource>
+<typeOfResource>moving image</typeOfResource>
 
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee Volunteers Football Media Guides</title></titleInfo></relatedItem>
+{{if(isBlank(cells['language'].value), '', '<language><languageTerm type="text" authority="iso639-2b">' + cells['language'].value + '</languageTerm></language>')}}
+{{if(isBlank(cells['language2'].value), '', '<language><languageTerm type="text" authority="iso639-2b">' + cells['language2'].value + '</languageTerm></language>')}}
 
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title></titleInfo></relatedItem>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 ```
 
