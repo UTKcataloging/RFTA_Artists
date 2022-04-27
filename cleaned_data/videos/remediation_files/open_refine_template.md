@@ -21,9 +21,9 @@
 
 {{if(isBlank(cells['Video Editor'].value), '', '<name><namePart>' + cells['Video Editor'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/edc">Editor of compilation</roleTerm></role></name>')}}
 
-{{if(isBlank(cells['Interviewee'].value), '', '<name><namePart>' + cells['Interviewee'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
-{{if(isBlank(cells['Interviewee2'].value), '', '<name><namePart>' + cells['Interviewee2'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
-{{if(isBlank(cells['Interviewee3'].value), '', '<name><namePart>' + cells['Interviewee3'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></role></name>')}}
+{{if(isBlank(cells['Interviewee'].value), '', '<name><namePart>' + cells['Interviewee'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>')}}
+{{if(isBlank(cells['Interviewee2'].value), '', '<name><namePart>' + cells['Interviewee2'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>')}}
+{{if(isBlank(cells['Interviewee3'].value), '', '<name><namePart>' + cells['Interviewee3'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm></role></name>')}}
 
 <originInfo><dateCreated>{{cells['Video Date'].value}}</dateCreated><dateCreated encoding="edtf" keyDate="yes">{{cells['EDTF Video Date'].value}}</dateCreated></originInfo>
 
@@ -41,6 +41,12 @@
 {{if(isBlank(cells['language2'].value), '', '<language><languageTerm type="text" authority="iso639-2b">' + cells['language2'].value + '</languageTerm></language>')}}
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes: The Chimney Tops 2 Wildfires in Memory and Art</title></titleInfo></relatedItem>
+
+<relatedItem type="constituent"><identifier type="pid">{{cells['Art PID'].value}}</identifier></relatedItem>
+
+<relatedItem type="constituent"><identifier type="pid">{{cells['Related Interview file'].value}}</identifier><location><url>{{cells['Interview_Link'].value}}</url></location></relatedItem>
+
+{{if(isBlank(cells['Related Interview file 2'].value), '', '<relatedItem type="constituent"><identifier type="pid">' + cells['Related Interview file 2'].value + '</identifier><location><url>' + cells['Interview_Link_2'].value + '</url></location></relatedItem>')}}
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
