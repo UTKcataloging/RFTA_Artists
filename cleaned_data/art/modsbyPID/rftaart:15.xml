@@ -9,6 +9,10 @@
    <titleInfo>
       <title>The Perfect Storm</title>
    </titleInfo>
+   <originInfo>
+      <dateCreated>2022</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
+   </originInfo>
    <abstract>"Never in the history of this park or even in the surrounding area had anyone seen the combination of severe drought, fire on the landscape, and an extreme wind event occurring at the same time. It was the perfect storm." Joe Strutler, USFS, who led eight person team to review the management of the Chimney Tops 2 Fire</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2003045282">
