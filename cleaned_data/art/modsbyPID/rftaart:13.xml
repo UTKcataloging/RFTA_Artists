@@ -14,8 +14,8 @@
       <dateCreated encoding="edtf" keyDate="yes">2016-12-16</dateCreated>
    </originInfo>
    <abstract>Yes, Virginia... There is a Dolly.</abstract>
-   <name>
-      <namePart>Daniel, Charles R. (Charlie), Jr., 1930-</namePart>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2022054298">
+      <namePart>Daniel, Charles R. (Charlie), Jr., 1929-</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
