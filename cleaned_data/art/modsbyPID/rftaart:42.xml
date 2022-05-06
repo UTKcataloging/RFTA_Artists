@@ -51,9 +51,15 @@
    </relatedItem>
    <relatedItem type="references">
       <location>
-         <url>https://rfta.lib.utk.edu/interviews/object/adesola-odunayo-2020-04-23 and https://rfta.lib.utk.edu/interviews/object/leslie-wereszczak-2019-12-13</url>
+         <url>https://rfta.lib.utk.edu/interviews/object/adesola-odunayo-2020-04-23</url>
       </location>
       <identifier type="pid">rfta:86</identifier>
+   </relatedItem>
+   <relatedItem type="references">
+      <location>
+         <url>https://rfta.lib.utk.edu/interviews/object/leslie-wereszczak-2019-12-13</url>
+      </location>
+      <identifier type="pid">rfta:39</identifier>
    </relatedItem>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
