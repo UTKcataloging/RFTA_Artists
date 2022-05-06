@@ -4,18 +4,16 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">RFTA_Marshall_014</identifier>
-   <identifier type="local">RFTA_Marshall_015</identifier>
    <identifier type="local">RFTA_Marshall_016</identifier>
-   <identifier type="pid">rftaart:46</identifier>
+   <identifier type="pid">rftaart:47</identifier>
    <titleInfo>
-      <title>Susan Melchor's Evacuation and Return</title>
+      <title>Susan Melchor's Evacuation and Return: 6-9</title>
    </titleInfo>
    <originInfo>
       <dateCreated>2022</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes">2022</dateCreated>
    </originInfo>
-   <abstract>1. Susan Melchor whose home was off Fox Run, is a classic example of how volunteer groups helped victims rebuild when insurance and other aid groups fell short. 2. Monday morning, she noticed embers falling from the sky. She called work saying she needed to clean leaves. She cleaned up, took a shower. At 6:30 she saw a fire truck at the end of the road. 3. A voice inside her head told her get out! so she loaded up pictures and pets and did just that. 4. For months she had been hearing "fire!" in her head, by 7 P.M., she was safely in Pigeon Forge. Her friends said "You're being sensational." By 8:30, her neighbors said her home was on fire. 5."God protected us even though I lost everything." Susan Melchor had escaped the fire. But her home, purchased to escape Florida hurricanes, was gone. One cruel irony-- one old stove, that was feared to be a fire hazard and broke during cleaning a few days before the fire, was untouched by the flames. 6. Thankful to have shelter, living in an unheated, leaky travel trailer got the best of Susan Melchor. "Your home is your refuge and I just want to go home," 7.The cost of rebuilding stunned Susan. One bid would have eaten up most of her insurance money and busted her budget. Then a Godsend arrived. Mission groups Helping His Hand and Church of the Cove from Townsend arrived. The volunteering professionals built the basement for $25,000. 8. The faith and giving spirit demonstrated by Helping His Hands (from Vincennes, Indiana) and Church of the Cove from Townsend represented the recovery efforts that happened after the fire. Tennessee live up to its nickname "The Volunteer State." "I wasn't asking for a handout. I was asking for a hand up... I wanted hope." 9. Like the wildflowers in the burn area new hope and homes sprouted anew.</abstract>
+   <abstract>6. Thankful to have shelter, living in an unheated, leaky travel trailer got the best of Susan Melchor. "Your home is your refuge and I just want to go home," 7.The cost of rebuilding stunned Susan. One bid would have eaten up most of her insurance money and busted her budget. Then a Godsend arrived. Mission groups Helping His Hand and Church of the Cove from Townsend arrived. The volunteering professionals built the basement for $25,000. 8. The faith and giving spirit demonstrated by Helping His Hands (from Vincennes, Indiana) and Church of the Cove from Townsend represented the recovery efforts that happened after the fire. Tennessee live up to its nickname "The Volunteer State." "I wasn't asking for a handout. I was asking for a hand up... I wanted hope." 9. Like the wildflowers in the burn area new hope and homes sprouted anew.</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2003045282">
       <namePart>Ramsey, Marshall</namePart>
